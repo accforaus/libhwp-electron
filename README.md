@@ -11,6 +11,12 @@ Just use reference how to ues [libhwp](https://github.com/accforaus/libhwp)
 
 enjoy!
 
+## Screen Shots
+
+![sc1](static/images/sc1.png)
+![sc1](static/images/sc2.png)
+![sc1](static/images/sc3.png)
+
 ## Build Setup
 
 ``` bash
