@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "vue": "^2.5.16",
     "vue-devtools": "^5.0.0-beta.1",
     "vue-electron": "^1.0.6",
